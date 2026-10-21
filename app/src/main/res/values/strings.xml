@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_description">FocusGuard chỉ nhận tên ứng dụng đang mở để kiểm tra giới hạn thời gian và hiện màn hình khóa. Không đọc nội dung màn hình hay gửi dữ liệu ra Internet. Bạn có thể tắt dịch vụ tại đây bất cứ lúc nào.</string>
+</resources>
